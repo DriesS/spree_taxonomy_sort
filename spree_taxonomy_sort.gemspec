@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_taxonomy_sort'
   s.version     = '1.2'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Spree taxonomy sort'
+  s.description = 'Spree taxonomy sort'
   s.required_ruby_version = '>= 1.8.7'
 
   s.author    = 'Dries Steenhouwer'
